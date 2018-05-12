@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21188#Tom-Swift-and-His-Giant-Telescope
 gutenberg_issued: '2007-04-19'
 gutenberg_type: Text
 identifiers:
