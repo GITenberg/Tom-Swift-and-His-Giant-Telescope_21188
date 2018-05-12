@@ -1,0 +1,32 @@
+_repo: Tom-Swift-and-His-Giant-Telescope_21188
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gary, James
+    gutenberg_agent_id: '9759'
+    url: http://www.gutenberg.org/2009/agents/9759
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_issued: '2007-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telescopes -- Juvenile fiction'
+- !lcsh 'Swift, Tom (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: Tom Swift and His Giant Telescope
+url: http://www.gutenberg.org/ebooks/21188
